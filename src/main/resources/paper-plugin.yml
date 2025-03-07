@@ -1,0 +1,4 @@
+name: PetsRevive
+version: '1.0-SNAPSHOT'
+main: org.example.zandar.petsRevive.PetsRevive
+api-version: '1.21'
