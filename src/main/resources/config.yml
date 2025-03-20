@@ -1,0 +1,12 @@
+default-death-time: 120
+default-resurrection-time: 60
+resurrection-time-overrides:
+  group.wealth: 1800
+  group.astral: 900
+death-time-overrides:
+  group.wealth: 360
+  group.astral: 240
+messages:
+  owner-message: "&#B87EEBолодар: {owner}"
+  death-message: "&#EB7EC6Помре через: {time}"
+  revive-message: "&#FF8AD7Воскресне через: {time}"
